@@ -281,6 +281,30 @@
       "username": "veda",
       "password": "welcome@123",
       "role": "user"
+    },
+    {
+      "id": "4f39",
+      "name": "shanthi",
+      "email": "shanthi@gmail.com",
+      "username": "shanthi",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "e5c6",
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "username": "anil",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "f208",
+      "name": "jainath",
+      "email": "jainath@gmail.com",
+      "username": "jainath",
+      "password": "welcome@123",
+      "role": "user"
     }
   ],
   "enrollments": [
@@ -588,6 +612,33 @@
       "enrolledDate": "26/10/2025",
       "courseImg": "https://via.placeholder.com/150",
       "batchId": "bdf1"
+    },
+    {
+      "id": "3f74",
+      "name": "shanthi",
+      "email": "shanthi@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "4806"
+    },
+    {
+      "id": "2268",
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "bdf1"
+    },
+    {
+      "id": "3efb",
+      "name": "jainath",
+      "email": "jainath@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "cd5e"
     }
   ],
   "batches": [
@@ -677,6 +728,26 @@
       "name": "morning",
       "startDate": "2025-10-26",
       "endDate": "2025-10-30",
+      "status": "active"
+    },
+    {
+      "id": "4806",
+      "batchNumber": "batch-3002",
+      "courseId": "c2",
+      "courseName": "React for Beginners",
+      "name": "evening batch",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "cd5e",
+      "batchNumber": "Batch-3003",
+      "courseId": "c2",
+      "courseName": "React for Beginners",
+      "name": "jet speed",
+      "startDate": "2025-10-26",
+      "endDate": "2025-11-26",
       "status": "active"
     }
   ],
@@ -776,6 +847,34 @@
       "uploadedAt": "2025-10-26T09:21:33.610Z",
       "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
       "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "c85d",
+      "title": "Jet speed testing",
+      "description": "this is testing for react course with jainath user",
+      "duration": 0,
+      "order": 1,
+      "courseId": "c2",
+      "courseName": "React for Beginners",
+      "batchId": "cd5e",
+      "batchNumber": "Batch-3003",
+      "uploadedAt": "2025-10-26T13:33:41.076Z",
+      "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "884d",
+      "title": "another video for testing",
+      "description": "sdfghjklkuytredxcv",
+      "duration": 0,
+      "order": 2,
+      "courseId": "c2",
+      "courseName": "React for Beginners",
+      "batchId": "cd5e",
+      "batchNumber": "Batch-3003",
+      "uploadedAt": "2025-10-26T13:34:21.473Z",
+      "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
     }
   ],
   "assignments": [
@@ -802,6 +901,22 @@
       "dueDate": "2025-10-30",
       "courseId": "c1",
       "batchId": "e423"
+    },
+    {
+      "title": "asg for react",
+      "description": "asdfghjklqwertyuiopzxcvbnm,",
+      "dueDate": "2025-10-27",
+      "courseId": "c2",
+      "batchId": "bdf1",
+      "id": "a1761482923933"
+    },
+    {
+      "id": "a1761485731450",
+      "title": "testing assignemt",
+      "description": "this is assignemt testing for batch 3003",
+      "dueDate": "2025-10-30",
+      "courseId": "c2",
+      "batchId": "cd5e"
     }
   ],
   "submissions": [
@@ -821,6 +936,14 @@
       "batchId": "e423",
       "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
       "submittedDate": "2025-10-26T09:37:19.504Z"
+    },
+    {
+      "id": "86e4",
+      "userId": "jainath",
+      "assignmentId": "a1761485731450",
+      "batchId": "cd5e",
+      "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
+      "submittedDate": "2025-10-26T13:36:27.531Z"
     }
   ],
   "certificates": [
@@ -837,10 +960,10 @@
       "id": "0571",
       "batchId": "e423",
       "courseName": "Introduction to Java",
-      "status": "requested",
+      "status": "completed",
       "requestedDate": "2025-10-26T11:49:25.842Z",
-      "issuedDate": "",
-      "downloadUrl": ""
+      "issuedDate": "2025-10-26T12:58:29.376Z",
+      "downloadUrl": "/certificates/0571.pdf"
     },
     {
       "id": "03fd",
@@ -859,6 +982,33 @@
       "status": "issued",
       "issuedDate": "2025-10-26T12:44:59.468Z",
       "downloadUrl": "/certificates/032b.pdf"
+    },
+    {
+      "id": "bc89",
+      "userId": "veda",
+      "userName": "veda",
+      "courseName": "Introduction to Java",
+      "status": "completed",
+      "issuedDate": "2025-10-26T13:06:57.731Z",
+      "downloadUrl": "/certificates/bc89.pdf"
+    },
+    {
+      "id": "26b5",
+      "userId": "shanthi",
+      "userName": "shanthi",
+      "courseName": "React for Beginners",
+      "status": "completed",
+      "issuedDate": "2025-10-26T13:21:30.970Z",
+      "downloadUrl": "/certificates/26b5.pdf"
+    },
+    {
+      "id": "b526",
+      "userId": "jainath",
+      "userName": "jainath",
+      "courseName": "React for Beginners",
+      "status": "completed",
+      "issuedDate": "2025-10-26T13:38:29.976Z",
+      "downloadUrl": "/certificates/b526.pdf"
     }
   ]
 }

@@ -265,6 +265,22 @@
       "username": "admin1",
       "password": "admin123",
       "role": "admin"
+    },
+    {
+      "id": "b6c9",
+      "name": "veda",
+      "email": "veda@gmail.com",
+      "username": "veda",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "79a1",
+      "name": "veda",
+      "email": "veda@gmail.com",
+      "username": "veda",
+      "password": "welcome@123",
+      "role": "user"
     }
   ],
   "enrollments": [
@@ -539,7 +555,7 @@
     },
     {
       "id": "33d1",
-      "name": "teja",
+      "name": "teja1",
       "email": "teja@gmail.com",
       "courseName": "Introduction to Java",
       "enrolledDate": "26/10/2025",
@@ -554,6 +570,24 @@
       "enrolledDate": "26/10/2025",
       "courseImg": "https://via.placeholder.com/150",
       "batchId": "780c"
+    },
+    {
+      "id": "2f9d",
+      "name": "veda",
+      "email": "veda@gmail.com",
+      "courseName": "Introduction to Java",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e423"
+    },
+    {
+      "id": "e4fc",
+      "name": "veda",
+      "email": "veda@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "bdf1"
     }
   ],
   "batches": [
@@ -634,6 +668,16 @@
       "startDate": "2025-10-26",
       "endDate": "2025-10-31",
       "status": "active"
+    },
+    {
+      "id": "bdf1",
+      "batchNumber": "batch-3001",
+      "courseId": "c2",
+      "courseName": "React for Beginners",
+      "name": "morning",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-30",
+      "status": "active"
     }
   ],
   "videos": [
@@ -704,6 +748,117 @@
       "uploadedAt": "2025-10-26T02:00:50.580Z",
       "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
       "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "a952",
+      "title": "first class for java 9AM",
+      "description": "bgvdfcsd",
+      "duration": 0,
+      "order": 1,
+      "courseId": "c1",
+      "courseName": "Introduction to Java",
+      "batchId": "e423",
+      "batchNumber": "2810",
+      "uploadedAt": "2025-10-26T09:15:32.248Z",
+      "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "3007",
+      "title": "second class",
+      "description": "sdfghjk",
+      "duration": 0,
+      "order": 2,
+      "courseId": "c1",
+      "courseName": "Introduction to Java",
+      "batchId": "e423",
+      "batchNumber": "2810",
+      "uploadedAt": "2025-10-26T09:21:33.610Z",
+      "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "a1761467522225",
+      "title": "create navbar ",
+      "description": "create navbar using java",
+      "dueDate": "2025-10-24",
+      "courseId": "c1",
+      "batchId": "780c"
+    },
+    {
+      "id": "a1761468056535",
+      "title": "loops",
+      "description": "fds",
+      "dueDate": "2025-10-30",
+      "courseId": "c1",
+      "batchId": "e423"
+    },
+    {
+      "id": "a1761468932495",
+      "title": "assg-1",
+      "description": "checking assignments description",
+      "dueDate": "2025-10-30",
+      "courseId": "c1",
+      "batchId": "e423"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "s124",
+      "assignmentId": null,
+      "userId": "u234",
+      "userName": "Seshu",
+      "batchId": "b1",
+      "submittedDate": "2025-10-28",
+      "fileUrl": "https://drive.google.com/xyz",
+      "comments": "Kindly find attached my solution."
+    },
+    {
+      "id": "025b",
+      "assignmentId": "a1761468056535",
+      "batchId": "e423",
+      "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
+      "submittedDate": "2025-10-26T09:37:19.504Z"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "b5bb",
+      "batchId": "e423",
+      "courseName": "Introduction to Java",
+      "status": "issued",
+      "requestedDate": "2025-10-26T10:12:53.987Z",
+      "issuedDate": "2025-10-26T11:49:30.274Z",
+      "downloadUrl": "/certificates/b5bb.pdf"
+    },
+    {
+      "id": "0571",
+      "batchId": "e423",
+      "courseName": "Introduction to Java",
+      "status": "requested",
+      "requestedDate": "2025-10-26T11:49:25.842Z",
+      "issuedDate": "",
+      "downloadUrl": ""
+    },
+    {
+      "id": "03fd",
+      "batchId": "bdf1",
+      "courseName": "React for Beginners",
+      "status": "issued",
+      "requestedDate": "2025-10-26T12:12:19.182Z",
+      "issuedDate": "2025-10-26T12:12:32.571Z",
+      "downloadUrl": "/certificates/03fd.pdf"
+    },
+    {
+      "id": "032b",
+      "userId": "veda",
+      "userName": "veda",
+      "courseName": "React for Beginners",
+      "status": "issued",
+      "issuedDate": "2025-10-26T12:44:59.468Z",
+      "downloadUrl": "/certificates/032b.pdf"
     }
   ]
 }

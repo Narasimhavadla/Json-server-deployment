@@ -210,33 +210,64 @@
       "username": "user2",
       "password": "user123",
       "role": "user"
+    },
+    {
+      "id": "c40b",
+      "name": "npci",
+      "email": "npci@gmail.com",
+      "username": "user3",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "6981",
+      "name": "madhu",
+      "email": "madhu@gmail.com",
+      "username": "user4",
+      "password": "user123",
+      "role": "user",
+      "description": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content."
+    },
+    {
+      "id": "692b",
+      "name": "sunil",
+      "email": "sunil@gmail.com",
+      "username": "user5",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": "ddeb",
+      "name": "seshu",
+      "email": "seshu@gmail.com",
+      "username": "seshu",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "c35d",
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "username": "teja",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "9d03",
+      "name": "bahubali",
+      "email": "bahubali@gmail.com",
+      "username": "bahubali",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "fbfc",
+      "username": "admin1",
+      "password": "admin123",
+      "role": "admin"
     }
   ],
   "enrollments": [
-    {
-      "id": "f0e1",
-      "name": "example 2",
-      "phone": "8527419630",
-      "email": "example@gmail.com",
-      "courseName": "Machine Learning Basics",
-      "filledDate": "22/10/2025"
-    },
-    {
-      "id": "7765",
-      "name": "kishore",
-      "phone": "4455667788",
-      "email": "kishore@gmail.com",
-      "courseName": "React for Beginners",
-      "filledDate": "22/10/2025"
-    },
-    {
-      "id": "5444",
-      "name": "kiran",
-      "phone": "1122334455",
-      "email": "kiran@gmail.com",
-      "courseName": "fs-basics",
-      "filledDate": "22/10/2025"
-    },
     {
       "id": "57d1",
       "name": "papi",
@@ -287,7 +318,7 @@
       "filledDate": "24/10/2025",
       "isApproved": true,
       "username": "seshu",
-      "password": "seshu123"
+      "password": "welcome@123"
     },
     {
       "id": "c1dc",
@@ -354,6 +385,61 @@
       "isApproved": true,
       "username": "user2",
       "password": "user123"
+    },
+    {
+      "id": "5834",
+      "name": "npci",
+      "phone": "3366885522",
+      "email": "npci@gmail.com",
+      "courseName": "fs-basics",
+      "filledDate": "25/10/2025",
+      "isApproved": true,
+      "username": "user3",
+      "password": "user123"
+    },
+    {
+      "id": "ee22",
+      "name": "madhu",
+      "phone": "7896541236",
+      "email": "madhu@gmail.com",
+      "courseName": "Html",
+      "filledDate": "25/10/2025",
+      "isApproved": true,
+      "username": "user3",
+      "password": "user123"
+    },
+    {
+      "id": "5dda",
+      "name": "sunil",
+      "phone": "9966332211",
+      "email": "sunil@gmail.com",
+      "courseName": "AWS",
+      "filledDate": "26/10/2025",
+      "isApproved": true,
+      "username": "user5",
+      "password": "user123"
+    },
+    {
+      "id": "06ee",
+      "name": "student1",
+      "phone": "8822664455",
+      "email": "student1@gmail.com",
+      "courseName": "Introduction to Java",
+      "filledDate": "26/10/2025",
+      "isApproved": false,
+      "username": "",
+      "password": ""
+    },
+    {
+      "id": "78f2",
+      "name": "rana",
+      "phone": "9955112233",
+      "email": "rana@gmail.com",
+      "courseName": "Introduction to Java",
+      "filledDate": "26/10/2025",
+      "isApproved": false,
+      "username": "",
+      "password": ""
     }
   ],
   "enrolledcourses": [
@@ -376,13 +462,6 @@
       "id": "6d62",
       "email": "mani@gmail.com",
       "courseName": "Machine Learning Basics",
-      "enrolledDate": "24/10/2025",
-      "courseImg": "https://via.placeholder.com/150"
-    },
-    {
-      "id": "dde6",
-      "email": "seshu@gmail.com",
-      "courseName": "Advanced SQL Queries",
       "enrolledDate": "24/10/2025",
       "courseImg": "https://via.placeholder.com/150"
     },
@@ -427,6 +506,204 @@
       "courseName": "Introduction to Java",
       "enrolledDate": "25/10/2025",
       "courseImg": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "d227",
+      "email": "npci@gmail.com",
+      "courseName": "fs-basics",
+      "enrolledDate": "25/10/2025",
+      "courseImg": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "dcb3",
+      "email": "madhu@gmail.com",
+      "courseName": "Html",
+      "enrolledDate": "25/10/2025",
+      "courseImg": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "d638",
+      "email": "sunil@gmail.com",
+      "courseName": "AWS",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "82f5",
+      "email": "seshu@gmail.com",
+      "courseName": "Advanced SQL Queries",
+      "enrolledDate": "24/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "0538",
+      "name": "seshu"
+    },
+    {
+      "id": "33d1",
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "courseName": "Introduction to Java",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e423"
+    },
+    {
+      "id": "61f1",
+      "name": "bahubali",
+      "email": "bahubali@gmail.com",
+      "courseName": "Introduction to Java",
+      "enrolledDate": "26/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "780c"
+    }
+  ],
+  "batches": [
+    {
+      "id": "e423",
+      "batchNumber": "2810",
+      "courseId": "c1",
+      "name": "9 AM",
+      "startDate": "2025-10-25",
+      "endDate": "2025-11-30",
+      "status": "active"
+    },
+    {
+      "id": "929b",
+      "batchNumber": "01",
+      "courseId": "c1",
+      "name": "jst started",
+      "startDate": "2025-10-25",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "780c",
+      "batchNumber": "02",
+      "courseId": "c1",
+      "name": "java",
+      "courseName": "",
+      "startDate": "2025-10-24",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "a316",
+      "batchNumber": "01",
+      "courseId": "T4QjNF9",
+      "courseName": "Html",
+      "name": "9PM batch",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "68f8",
+      "batchNumber": "batch-1001",
+      "courseId": "lgqvsIU",
+      "courseName": "AWS",
+      "name": "norning batch",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "40dd",
+      "batchNumber": "batch-1002",
+      "courseId": "lgqvsIU",
+      "courseName": "AWS",
+      "name": "evening batch",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "0538",
+      "batchNumber": "batch-2000",
+      "courseId": "c3",
+      "courseName": "Advanced SQL Queries",
+      "name": "morning batch",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "81ef",
+      "batchNumber": "batch-2001",
+      "courseId": "c3",
+      "courseName": "Advanced SQL Queries",
+      "name": "evening batch",
+      "startDate": "2025-10-26",
+      "endDate": "2025-10-31",
+      "status": "active"
+    }
+  ],
+  "videos": [
+    {
+      "id": "70cc"
+    },
+    {
+      "id": "b949",
+      "title": "First class",
+      "description": "hello this is details section",
+      "duration": 0,
+      "order": 1,
+      "courseId": "T4QjNF9",
+      "courseName": "Html",
+      "batchId": "a316",
+      "batchNumber": "01",
+      "fileName": "Screen Recording 2024-10-25 132208.mp4",
+      "fileSize": 54105395,
+      "fileType": "video/mp4",
+      "uploadedAt": "2025-10-25T15:55:22.276Z",
+      "videoUrl": "videos/Screen Recording 2024-10-25 132208.mp4",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "4e3b",
+      "title": "second video",
+      "description": "this is second video for testing",
+      "duration": 0,
+      "order": 1,
+      "courseId": "T4QjNF9",
+      "courseName": "Html",
+      "batchId": "a316",
+      "batchNumber": "01",
+      "fileName": "login form - Google Chrome 2024-07-02 11-29-44.mp4",
+      "fileSize": 31137121,
+      "fileType": "video/mp4",
+      "uploadedAt": "2025-10-25T16:33:57.675Z",
+      "videoUrl": "videos/login form - Google Chrome 2024-07-02 11-29-44.mp4",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "cf0e",
+      "title": "third class",
+      "description": "third for testing  auto order increment",
+      "duration": 0,
+      "order": 2,
+      "courseId": "T4QjNF9",
+      "courseName": "Html",
+      "batchId": "a316",
+      "batchNumber": "01",
+      "fileName": "bootstrap - Google Chrome 2024-07-22 23-20-26.mp4",
+      "fileSize": 26948401,
+      "fileType": "video/mp4",
+      "uploadedAt": "2025-10-25T16:39:56.572Z",
+      "videoUrl": "/videos/bootstrap - Google Chrome 2024-07-22 23-20-26.mp4",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "f33f",
+      "title": "testing with wistia",
+      "description": "this video is testing for wistia description",
+      "duration": 0,
+      "order": 1,
+      "courseId": "c3",
+      "courseName": "Advanced SQL Queries",
+      "batchId": "0538",
+      "batchNumber": "batch-2000",
+      "uploadedAt": "2025-10-26T02:00:50.580Z",
+      "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
     }
   ]
 }

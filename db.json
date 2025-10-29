@@ -305,6 +305,94 @@
       "username": "jainath",
       "password": "welcome@123",
       "role": "user"
+    },
+    {
+      "id": "0112",
+      "name": "gajji",
+      "email": "gajji@gmail.com",
+      "username": "gajji",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "c723",
+      "name": "karthik",
+      "email": "karthik@gmail.com",
+      "username": "karthik",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "6d9a",
+      "name": "punnu",
+      "email": "punnu@gmial.com",
+      "username": "punnu",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "f018",
+      "name": "baba",
+      "email": "baba@gmail.com",
+      "username": "baba",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "df35",
+      "name": "harshitha",
+      "email": "harshitha@gmail.com",
+      "username": "harshitha",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "6bbe",
+      "name": "harshitha",
+      "email": "harshitha@gmail.com",
+      "username": "harshitha",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "7836",
+      "name": "hanvika",
+      "email": "hanvika@gmail.com",
+      "username": "hanvika",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "e4b4",
+      "name": "ai dev",
+      "email": "aidev@gmail.com",
+      "username": "ai",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "dbeb",
+      "name": "chanindavas",
+      "email": "chanimdavas@gmail.com",
+      "username": "chemindavas",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "8458",
+      "name": "neelu",
+      "email": "neelu@gmail.com",
+      "username": "neelu",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "c841",
+      "name": "machine",
+      "email": "machine@gmail.com",
+      "username": "machine",
+      "password": "welcome@123",
+      "role": "user"
     }
   ],
   "enrollments": [
@@ -639,6 +727,105 @@
       "enrolledDate": "26/10/2025",
       "courseImg": "https://via.placeholder.com/150",
       "batchId": "cd5e"
+    },
+    {
+      "id": "7111",
+      "name": "gajji",
+      "email": "gajji@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "cd5e"
+    },
+    {
+      "id": "2d89",
+      "name": "karthik",
+      "email": "karthik@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "cd5e"
+    },
+    {
+      "id": "1e33",
+      "name": "punnu",
+      "email": "punnu@gmial.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "cd5e"
+    },
+    {
+      "id": "3bdd",
+      "name": "baba",
+      "email": "baba@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e024"
+    },
+    {
+      "id": "f86a",
+      "name": "harshitha",
+      "email": "harshitha@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e024"
+    },
+    {
+      "id": "d324",
+      "name": "harshitha",
+      "email": "harshitha@gmail.com",
+      "courseName": "Introduction to Java",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e423"
+    },
+    {
+      "id": "14b4",
+      "name": "hanvika",
+      "email": "hanvika@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e024"
+    },
+    {
+      "id": "22e3",
+      "name": "ai dev",
+      "email": "aidev@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e024"
+    },
+    {
+      "id": "8d65",
+      "name": "chanindavas",
+      "email": "chanimdavas@gmail.com",
+      "courseName": "fs-basics",
+      "enrolledDate": "28/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "77ea"
+    },
+    {
+      "id": "1c25",
+      "name": "neelu",
+      "email": "neelu@gmail.com",
+      "courseName": "fs-basics",
+      "enrolledDate": "29/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "77ea"
+    },
+    {
+      "id": "de3e",
+      "name": "machine",
+      "email": "machine@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "enrolledDate": "29/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "e024"
     }
   ],
   "batches": [
@@ -748,6 +935,26 @@
       "name": "jet speed",
       "startDate": "2025-10-26",
       "endDate": "2025-11-26",
+      "status": "active"
+    },
+    {
+      "id": "e024",
+      "batchNumber": "batch AI",
+      "courseId": "c4",
+      "courseName": "Machine Learning Basics",
+      "name": "morning batch",
+      "startDate": "2025-10-28",
+      "endDate": "2025-10-31",
+      "status": "active"
+    },
+    {
+      "id": "77ea",
+      "batchNumber": "4001",
+      "courseId": "10",
+      "courseName": "fs-basics",
+      "name": "dev batch",
+      "startDate": "2025-10-28",
+      "endDate": "2025-10-31",
       "status": "active"
     }
   ],
@@ -875,6 +1082,20 @@
       "uploadedAt": "2025-10-26T13:34:21.473Z",
       "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
       "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
+    },
+    {
+      "id": "d1f5",
+      "title": "third video ",
+      "description": "aszxdcfgvbhnjkmjnbhgvcrdexxcfgvbh",
+      "duration": 0,
+      "order": 3,
+      "courseId": "c2",
+      "courseName": "React for Beginners",
+      "batchId": "cd5e",
+      "batchNumber": "Batch-3003",
+      "uploadedAt": "2025-10-28T04:59:29.505Z",
+      "videoUrl": "https://narasimhavadla95.wistia.com/medias/4rvumc8a2k",
+      "thumbnail": "https://via.placeholder.com/320x180?text=Video+Thumbnail"
     }
   ],
   "assignments": [
@@ -917,6 +1138,14 @@
       "dueDate": "2025-10-30",
       "courseId": "c2",
       "batchId": "cd5e"
+    },
+    {
+      "id": "a1761750168511",
+      "title": "new assignment check for machine",
+      "description": "asdfghjklpoiuytrewzxcvbnm",
+      "dueDate": "2025-10-29",
+      "courseId": "c4",
+      "batchId": "e024"
     }
   ],
   "submissions": [
@@ -944,6 +1173,14 @@
       "batchId": "cd5e",
       "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
       "submittedDate": "2025-10-26T13:36:27.531Z"
+    },
+    {
+      "id": "678b",
+      "userId": "machine",
+      "assignmentId": "a1761750168511",
+      "batchId": "e024",
+      "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
+      "submittedDate": "2025-10-29T15:06:01.988Z"
     }
   ],
   "certificates": [
@@ -1009,6 +1246,115 @@
       "status": "completed",
       "issuedDate": "2025-10-26T13:38:29.976Z",
       "downloadUrl": "/certificates/b526.pdf"
+    },
+    {
+      "id": "01ef",
+      "userId": "gajji",
+      "userName": "gajji",
+      "courseName": "React for Beginners",
+      "status": "completed",
+      "issuedDate": "2025-10-28T04:58:02.077Z",
+      "downloadUrl": "/certificates/01ef.pdf"
+    },
+    {
+      "id": "9057",
+      "userId": "karthik",
+      "userName": "karthik",
+      "email": "karthik@gmail.com",
+      "courseName": "React for Beginners",
+      "status": "completed",
+      "issuedDate": "2025-10-28T06:44:07.915Z",
+      "downloadUrl": "/certificates/9057.pdf"
+    },
+    {
+      "id": "7469",
+      "userId": "harshitha",
+      "userName": "harshitha",
+      "email": "harshitha@gmail.com",
+      "status": "completed",
+      "issuedDate": "2025-10-28T11:57:58.331Z",
+      "downloadUrl": "/certificates/7469.pdf"
+    },
+    {
+      "id": "5b5c",
+      "userId": "hanvika",
+      "userName": "hanvika",
+      "email": "hanvika@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "status": "completed",
+      "issuedDate": "2025-10-28T11:56:23.791Z",
+      "downloadUrl": "/certificates/5b5c.pdf"
+    },
+    {
+      "id": "dc33",
+      "userId": "ai",
+      "userName": "ai",
+      "email": "aidev@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "status": "completed",
+      "issuedDate": "2025-10-28T11:51:20.085Z",
+      "downloadUrl": "/certificates/dc33.pdf"
+    },
+    {
+      "id": "3e9c",
+      "userId": "harshitha",
+      "userName": "harshitha",
+      "email": "harshitha@gmail.com",
+      "courseName": "Introduction to Java",
+      "status": "completed",
+      "issuedDate": "2025-10-28T12:00:59.587Z",
+      "downloadUrl": "/certificates/3e9c.pdf"
+    },
+    {
+      "id": "8d28",
+      "userId": "harshitha",
+      "userName": "harshitha",
+      "email": "harshitha@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "status": "completed",
+      "issuedDate": "2025-10-28T12:00:17.493Z",
+      "downloadUrl": "/certificates/8d28.pdf"
+    },
+    {
+      "id": "e0a7",
+      "userId": "chemindavas",
+      "userName": "chemindavas",
+      "email": "chanimdavas@gmail.com",
+      "courseName": "fs-basics",
+      "status": "completed",
+      "issuedDate": "2025-10-28T15:14:53.425Z",
+      "downloadUrl": "/certificates/e0a7.pdf"
+    },
+    {
+      "id": "4091",
+      "userId": "neelu",
+      "userName": "neelu",
+      "email": "neelu@gmail.com",
+      "courseName": "fs-basics",
+      "status": "completed",
+      "issuedDate": "2025-10-29T14:00:21.560Z",
+      "downloadUrl": "/certificates/4091.pdf"
+    },
+    {
+      "id": "c463",
+      "userId": "seshu",
+      "userName": "seshu",
+      "email": "seshu@gmail.com",
+      "courseName": "Advanced SQL Queries",
+      "status": "completed",
+      "issuedDate": "2025-10-29T14:29:21.990Z",
+      "downloadUrl": "/certificates/c463.pdf"
+    },
+    {
+      "id": "4ae8",
+      "userId": "machine",
+      "userName": "machine",
+      "email": "machine@gmail.com",
+      "courseName": "Machine Learning Basics",
+      "status": "completed",
+      "issuedDate": "2025-10-29T14:39:10.561Z",
+      "downloadUrl": "/certificates/4ae8.pdf"
     }
-  ]
+  ],
+  "notifications": []
 }

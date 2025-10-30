@@ -393,6 +393,22 @@
       "username": "machine",
       "password": "welcome@123",
       "role": "user"
+    },
+    {
+      "id": "57c3",
+      "name": "vivek",
+      "email": "viviek@gmail.com",
+      "username": "vivek",
+      "password": "welcome@123",
+      "role": "user"
+    },
+    {
+      "id": "270e",
+      "name": "allen",
+      "email": "allen@gmail.com",
+      "username": "allen",
+      "password": "welcome@123",
+      "role": "user"
     }
   ],
   "enrollments": [
@@ -826,6 +842,24 @@
       "enrolledDate": "29/10/2025",
       "courseImg": "https://via.placeholder.com/150",
       "batchId": "e024"
+    },
+    {
+      "id": "9022",
+      "name": "vivek",
+      "email": "viviek@gmail.com",
+      "courseName": "React for Beginners",
+      "enrolledDate": "29/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "cd5e"
+    },
+    {
+      "id": "48ab",
+      "name": "allen",
+      "email": "allen@gmail.com",
+      "courseName": "Introduction to Java",
+      "enrolledDate": "30/10/2025",
+      "courseImg": "https://via.placeholder.com/150",
+      "batchId": "929b"
     }
   ],
   "batches": [
@@ -1181,6 +1215,14 @@
       "batchId": "e024",
       "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
       "submittedDate": "2025-10-29T15:06:01.988Z"
+    },
+    {
+      "id": "40d1",
+      "userId": "vivek",
+      "assignmentId": "a1761485731450",
+      "batchId": "cd5e",
+      "fileUrl": "https://drive.google.com/file/d/1bmLLSjcozWrVbxusq61ZVh5fflXVW3Bf/view?usp=drive_link",
+      "submittedDate": "2025-10-29T17:34:00.762Z"
     }
   ],
   "certificates": [
@@ -1354,7 +1396,30 @@
       "status": "completed",
       "issuedDate": "2025-10-29T14:39:10.561Z",
       "downloadUrl": "/certificates/4ae8.pdf"
+    },
+    {
+      "id": "2e64",
+      "userId": "vivek",
+      "userName": "vivek",
+      "email": "viviek@gmail.com",
+      "courseName": "React for Beginners",
+      "status": "completed",
+      "issuedDate": "2025-10-29T17:32:56.722Z",
+      "downloadUrl": "/certificates/2e64.pdf"
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "status": "read",
+      "id": "5227"
+    },
+    {
+      "status": "read",
+      "id": "8433"
+    },
+    {
+      "status": "read",
+      "id": "52d2"
+    }
+  ]
 }
